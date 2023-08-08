@@ -4,5 +4,13 @@ header {
 }
 
 . {
-    display: inline-block;
+    display: inline-block; 
+    /* ceter all text */
+}
+
+main {
+    background-color: grey;
+}
+body {
+    background-image: recorging ;
 }
