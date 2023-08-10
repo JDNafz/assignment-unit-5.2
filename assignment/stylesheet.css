@@ -3,9 +3,9 @@ header {
     color: whitesmoke;
 }
 
-. {
+* {
     display: inline-block; 
-    /* ceter all text */
+    /* center all text */
 }
 
 main {
