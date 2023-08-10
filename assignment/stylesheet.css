@@ -1,16 +1,15 @@
-header {
+.light-dark {
     background-color: rgb(66, 57, 57);
     color: whitesmoke;
+    text-align: center;
 }
 
-* {
-    display: inline-block; 
-    /* center all text */
-}
-
-main {
+.mainLightGrey {
     background-color: grey;
+    padding: 1em;
 }
 body {
-    background-image: recorging ;
+    background: url(record.png);
+    background-repeat:repeat; /* this seems to be the default, but I added it anyway for the assignment */
+    margin: 0 ;
 }
